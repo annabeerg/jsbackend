@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Anna",
+        "content": "Om det skulle tändas en stjärna varje gång jag tänker på dig så skulle natten vara ljusare än dagen…",
+        "allowed_users": [],
+        "comments": []
+    },
+    {
+        "name": "Kalle",
+        "content": "There are no ugly people, only eyes that seen all thats wrong.",
+        "allowed_users": [],
+        "comments": []
+    },
+    {
+        "name": "Stina",
+        "content": "Familj är inte vems blod du har, det är vilka du älskar och vilka som älskar dig…",
+        "allowed_users": [],
+        "comments": []
+    },
+    {
+        "name": "Lars",
+        "content": "I skolan lär vi oss och sen gör vi provet men i livet gå vi igenom prover först, och sen lär vi oss.",
+        "allowed_users": [],
+        "comments": []
+    }
+]
