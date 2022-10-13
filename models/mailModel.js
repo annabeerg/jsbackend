@@ -2,10 +2,10 @@ const sgMail = require('@sendgrid/mail')
 sgMail.setApiKey(process.env.API_SECRET)
 
 const mail = {
-    sendMail: async function sendMail(to, from, subject, content) {
+    sendMail: async function sendMail(to, subject, content) {
         let data = {
             to: to,
-            from: from,
+            from: process.env.MAIL,
             subject: subject,
             text: content
         }
